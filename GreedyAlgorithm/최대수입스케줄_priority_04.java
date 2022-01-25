@@ -1,5 +1,5 @@
 package GreedyAlgorithm;
-
+//
 import java.util.*;
 class benefit implements Comparable<benefit>{
 	int money;
